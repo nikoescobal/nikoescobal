@@ -15,7 +15,7 @@
 - Git, GitHub, Mobile/Responsive Development, Chrome Dev Tools, VS Code, Slack
 
 ### Professional: 
-- Remote Pair-Programming, Teamwork, Startups
+- Remote Pair-Programming, Teamwork, Startups, Mentoring
 
 ### Get in touch with me! :slightly_smiling_face:
 - Github:[@nikoescobal](https://github.com/nikoescobal/Youtubeclone-muhammed-niko/commits?author=nikoescobal)

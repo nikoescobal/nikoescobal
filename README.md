@@ -7,9 +7,15 @@
 - 👯 I’m looking to collaborate on any cool projects!
 - ⚡ Fun fact: Passionate about :ramen:, :computer:, and :musical_note: 
 
-### Code: HTML, CSS, JavaScript, Ruby, Ruby on Rails, React, and Redux  
-### Tools & Methods: Git, GitHub, Mobile/Responsive Development, Chrome Dev Tools, VS Code, Slack
-### Professional: Remote Pair-Programming, Enterprise Sales Consulting, Business Development, Startups
+### Code: 
+
+- HTML, CSS, JavaScript, Ruby, Ruby on Rails, React, and Redux  
+### Tools & Methods: 
+
+- Git, GitHub, Mobile/Responsive Development, Chrome Dev Tools, VS Code, Slack
+
+### Professional: 
+- Remote Pair-Programming, Enterprise Sales Consulting, Business Development, Startups
 
 ### Get in touch with me! :slightly_smiling_face:
 - Github:[@nikoescobal](https://github.com/nikoescobal/Youtubeclone-muhammed-niko/commits?author=nikoescobal)

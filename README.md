@@ -1,4 +1,4 @@
-## Hey 👋 I'm a Full-stack Developer-in-training at Microverse, an awesome online coding :school_satchel:	
+## Hey 👋 I'm a full-stack code ninja-in-training at Microverse, a cool coding school :school_satchel:	
 
 ### You can call me Niko :blush: This is my life in emojis -  🍜 🍻 💩 💻 🙏 🔁
 

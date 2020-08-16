@@ -5,7 +5,7 @@
 - 🔭 I love building awesome websites with lots of :heart:  
 - 🌱 I'm currently brushing up my JavaScript :triumph:
 - 👯 I’m looking to collaborate on any cool projects! :dart:
-- :sushi: Fun fact: I :heart: :ramen: and :sushi:. It's the :bomb:. I also love meaningful tech, :computer: and music :musical_note: 
+- :sushi: Fun fact: I :heart: :ramen: and :sushi:. It's the :bomb:. I also love meaningful tech :rocket:, music :musical_note:, and learning :books: 
 
 ### Code 💻: 
 

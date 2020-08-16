@@ -21,7 +21,7 @@
 
 ### Tools & Methods :hammer_and_wrench:: 
 
-- 💻 Git, GitHub, Mobile/Responsive Development, Chrome Dev Tools, VS Code, Slack
+- :pick: Git, GitHub, Mobile/Responsive Development, Chrome Dev Tools, VS Code, Slack
 
 ### Professional :necktie:: 
 - :star: Remote Pair-Programming, Teamwork, Startups, Mentoring

@@ -29,6 +29,6 @@
 ### Get in touch with me! :slightly_smiling_face:
 - :zap: Github:[@nikoescobal](https://github.com/nikoescobal/Youtubeclone-muhammed-niko/commits?author=nikoescobal)
 - :zap: Twitter:[@nikoescobal](https://twitter.com/nikoescobal)
-- :zap: LinkedIn:[@Nikolas Escobal](https://www.linkedin.com/in/nikolas-joseph-escobal/)
+- :zap: LinkedIn:[@Nikolas Escobal](https://www.linkedin.com/in/nikolas-escobal/)
  
  <img align="left" src="https://github-readme-stats.vercel.app/api/?username=nikoescobal&show_icons=true&hide_border=true" />

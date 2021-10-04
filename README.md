@@ -2,10 +2,10 @@
 
 ### You can call me Niko :blush: This is my life in emojis -  🍜 🍻 💩 💻 🙏 🔁
 
-- 🔭 I love building awesome websites with lots of :heart:  
-- 🌱 I'm currently brushing up my JavaScript :triumph:
-- 👯 I’m looking to collaborate on any cool projects! :dart:
-- :sushi: Fun fact: I :heart: :ramen: and :sushi:. It's the :bomb:. I also love meaningful tech :rocket:, music :musical_note:, and learning :books: 
+🔭 I love building awesome websites with lots of :heart:  
+🌱 I'm currently brushing up my JavaScript :triumph:
+👯 I’m looking to collaborate on any cool projects! :dart:
+:sushi: Fun fact: I :heart: :ramen: and :sushi:. It's the :bomb:. I also love meaningful tech :rocket:, music :musical_note:, and learning :books: 
 
 ### Code 💻: 
 
@@ -21,14 +21,14 @@
 
 ### Tools & Methods :hammer_and_wrench:: 
 
-- :pick: Git, GitHub, Mobile/Responsive Development, Chrome Dev Tools, VS Code, Slack
+:pick: Git, GitHub, Mobile/Responsive Development, Chrome Dev Tools, VS Code, Slack
 
 ### Professional :necktie:: 
-- :star: Remote Pair-Programming, Teamwork, Startups, Mentoring
+:star: Remote Pair-Programming, Teamwork, Startups, Mentoring
 
 ### Get in touch with me! :slightly_smiling_face:
-- :zap: Github:[@nikoescobal](https://github.com/nikoescobal/Youtubeclone-muhammed-niko/commits?author=nikoescobal)
-- :zap: Twitter:[@nikoescobal](https://twitter.com/nikoescobal)
-- :zap: LinkedIn:[@Nikolas Escobal](https://www.linkedin.com/in/nikolas-escobal/)
+:zap: Github:[@nikoescobal](https://github.com/nikoescobal/Youtubeclone-muhammed-niko/commits?author=nikoescobal)
+:zap: Twitter:[@nikoescobal](https://twitter.com/nikoescobal)
+:zap: LinkedIn:[@Nikolas Escobal](https://www.linkedin.com/in/nikolas-escobal/)
  
  <img align="left" src="https://github-readme-stats.vercel.app/api/?username=nikoescobal&show_icons=true&hide_border=true" />

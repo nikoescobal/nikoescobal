@@ -30,9 +30,6 @@
 ### Professional :necktie:: 
 :star: Remote Pair-Programming, Teamwork, Startups, Mentoring
 
-### Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -52,5 +49,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikoescobal&" alt="nikoescobal" /></p>
 
+# ✍️ Latest Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 

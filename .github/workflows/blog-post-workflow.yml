@@ -12,6 +12,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
       - name: Pull in Medium posts
-        uses: gautamkrishnar/blog-post-workflow@1.6.7
+        uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: 'https://medium.com/feed/@nikoescobal'

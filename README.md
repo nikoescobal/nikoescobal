@@ -51,6 +51,11 @@
 
 # ✍️ Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Afraid of Debugging? Here are 5 Tips to Make Debugging Less Painful](https://medium.com/geekculture/debugging-doesnt-have-to-be-painful-943b87d03714?source=rss-a4833e453b33------2)
+- [Microverse: A Commitment Device For Learning How To Code](https://medium.com/geekculture/the-power-of-commitment-devices-815c297b2a32?source=rss-a4833e453b33------2)
+- [The Top Skills Every Aspiring Developer Needs To Master](https://medium.com/geekculture/the-most-crucial-skills-every-aspiring-developer-needs-to-master-9e2ebbb6bfa8?source=rss-a4833e453b33------2)
+- [Why You Should Limit Netflix Time and Instead Write Your Own Story](https://nikoescobal.medium.com/why-you-should-limit-netflix-time-and-instead-write-your-own-story-f79b790e3d27?source=rss-a4833e453b33------2)
+- [Deliberate Subliminal Unlearning](https://nikoescobal.medium.com/deliberate-subliminal-unlearning-286cf3f5be6a?source=rss-a4833e453b33------2)
 <!-- BLOG-POST-LIST:END -->
 
 

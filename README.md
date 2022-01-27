@@ -3,6 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
+
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
   <a href="https://github.com/nikoescobal/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self-taught%20Full-stack%20developer;Experienced%20Startup%20Founder;2%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=36BCF7&vCenter=true&size=22"></a>
@@ -40,9 +41,9 @@
 
 - ⚡ Fun fact -  **I make music in my free time. And I absolutely love :sushi: and :ramen:**
 
+
 ### Professional :necktie:: 
 :star: Remote Pair-Programming, Teamwork, Startups, Mentoring
-
 
 
 <h3 align="left">Connect with me:</h3>
@@ -63,18 +64,21 @@
 
 :pick: Git, GitHub, Mobile/Responsive Development, Chrome Dev Tools, VS Code, Slack
 
+
 ### Professional :necktie:: 
 :star: Remote Pair-Programming, Teamwork, Startups, Mentoring
- 
- <img align="left" src="https://github-readme-stats.vercel.app/api/?username=nikoescobal&show_icons=true&hide_border=true" />
 
+
+ <img align="left" src="https://github-readme-stats.vercel.app/api/?username=nikoescobal&show_icons=true&hide_border=true" />
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikoescobal&show_icons=true&locale=en&layout=compact" alt="nikoescobal" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikoescobal&show_icons=true&locale=en" alt="nikoescobal" /></p>
 
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikoescobal&" alt="nikoescobal" /></p>
+
 
 # ✍️ Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
@@ -86,5 +90,3 @@
 - [Why You Should Limit Netflix Time and Instead Write Your Own Story](https://nikoescobal.medium.com/why-you-should-limit-netflix-time-and-instead-write-your-own-story-f79b790e3d27?source=rss-a4833e453b33------2)
 - [Deliberate Subliminal Unlearning](https://nikoescobal.medium.com/deliberate-subliminal-unlearning-286cf3f5be6a?source=rss-a4833e453b33------2)
 <!-- BLOG-POST-LIST:END -->
-
-

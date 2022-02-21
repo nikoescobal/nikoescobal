@@ -37,7 +37,7 @@
 
 - 📫 How to reach me **niko.escobal@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/nikoescobal](https://github.com/nikoescobal)
+- 📄 Learn about about my experiencess and check out my works at my [personal website](http://www.nikoescobal.com/).
 
 - ⚡ Fun fact -  **I make music in my free time. And I absolutely love :sushi: and :ramen:**
 

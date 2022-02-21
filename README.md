@@ -23,7 +23,7 @@
 
 - 🔭 I’m currently working on **Building my own habits tracker**
 
-- 🌱 I’m currently learning **about Flutter**
+- 🌱 I’m currently learning **Flutter**
 
 - 👯 I’m looking to collaborate on **anything interesting**
 
@@ -35,7 +35,7 @@
 
 - 💬 Ask me about **React, Rails, and sad instrumental music**
 
-- 📫 How to reach me **niko.escobal@gmail.com**
+- 📫 How to reach me **hey@nikoescobal.com**
 
 - 📄 Learn about about my experiencess and check out my works at my [personal website](http://www.nikoescobal.com/).
 

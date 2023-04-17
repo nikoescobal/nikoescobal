@@ -13,7 +13,6 @@
     <a href="https://github.com/nikoescobal/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=22&width=415&lines=My+life+in+emojis+%F0%9F%8D%A3%F0%9F%8D%BB%F0%9F%92%A9%F0%9F%92%BB%F0%9F%99%8F%F0%9F%94%81%F0%9F%98%B4"></a>
 </p>
 
-<h3 align="center">I'm a a creative and passionate Full-stack-developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikoescobal&label=Profile%20views&color=0e75b6&style=flat" alt="nikoescobal" /> </p>
 
